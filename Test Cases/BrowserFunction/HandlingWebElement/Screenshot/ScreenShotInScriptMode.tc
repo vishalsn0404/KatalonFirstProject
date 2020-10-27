@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScreenShotInScriptMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5f4cc32-2ee0-43a9-b703-ce8eb939bc29</testCaseGuid>
+   <variable>
+      <defaultValue>'https://abodeqa.com/'</defaultValue>
+      <description></description>
+      <id>7287cbed-b69f-4081-8e30-2beac2442c6d</id>
+      <masked>false</masked>
+      <name>varBaseURL</name>
+   </variable>
+</TestCaseEntity>

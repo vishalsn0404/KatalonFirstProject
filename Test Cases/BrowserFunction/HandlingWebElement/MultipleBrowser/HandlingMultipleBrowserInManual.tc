@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HandlingMultipleBrowserInManual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d87a845-c14c-4ff6-bc5d-fa0999798129</testCaseGuid>
+   <variable>
+      <defaultValue>'This is public variable!!!'</defaultValue>
+      <description></description>
+      <id>bcbd4405-e189-4a4d-86fe-3c2844e3c4e5</id>
+      <masked>false</masked>
+      <name>varPublic</name>
+   </variable>
+</TestCaseEntity>

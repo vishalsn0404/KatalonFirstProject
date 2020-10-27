@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HandleMultipleBrowserGoogle</name>
+   <tag></tag>
+   <elementGuidId>cf97f3ea-3e65-41a5-b957-2a06e41f9c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class=''google_button_text]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#google_button.submit_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>google_button_text</value>
+   </webElementProperties>
+</WebElementEntity>
